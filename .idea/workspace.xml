@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbe351a0-0257-466f-b8ea-3ff8e646b262" name="Changes" comment="Added readme">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="bbe351a0-0257-466f-b8ea-3ff8e646b262" name="Changes" comment="Added img to readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694876026948</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added img to readme.md">
+      <created>1694876353652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694876353652</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added img to readme.md">
+      <created>1694876365882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694876365882</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +123,7 @@
     <MESSAGE value="Add 2 print lines as report heading" />
     <MESSAGE value="Added 1 more print line" />
     <MESSAGE value="Added readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added readme" />
+    <MESSAGE value="Added img to readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added img to readme.md" />
   </component>
 </project>
